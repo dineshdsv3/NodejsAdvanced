@@ -9,6 +9,7 @@
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
+    "express-session": "^1.17.1",
     "jade": "^1.11.0",
     "json": "^10.0.0",
     "logger": "0.0.1",
@@ -17,6 +18,9 @@
     "mongoose": "^5.10.8",
     "mongoose-encryption": "^2.0.2",
     "nano": "^8.2.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.0.1",
     "path": "^0.12.7"
   },
   "devDependencies": {},
